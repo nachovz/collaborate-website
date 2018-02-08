@@ -1,22 +1,17 @@
-
 .jumbotron-fluid {
-    height: 400px;
-    margin-bottom: 0 !important;
-    padding-top: 8rem !important;
-    padding-bottom: 8rem !important;
+    margin-bottom: 0;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
     
 }
 
 .gridText {
      margin: auto;
-  
-}
-.col-lg-8 {
-     margin: auto;
+     padding: 8rem;
 }
 
 h2 {
-    font-weight: bold !important;
+    font-weight: bold;
 }
 
 .gridTiles {
