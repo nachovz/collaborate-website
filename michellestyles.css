@@ -6,29 +6,34 @@
 }
 
 .gridText {
-     margin: auto;
      padding: 8rem;
+     
 }
 
 h2 {
     font-weight: bold;
 }
 
-.gridTiles {
-    height: 400px;
+
+
+#image1 {
+    background-image: url(iphoneimg.jpg);
+     padding: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#image2 {
+    background-image: url(htmlscreen.png);
+     padding: 20rem;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-#image1 {
-    background-image: url(iphoneimg.jpg);
-}
-#image2 {
-    background-image: url(htmlscreen.png);
-}
-
 #image3 {
     background-image: url(babyblocks.jpg);
+     padding: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 
