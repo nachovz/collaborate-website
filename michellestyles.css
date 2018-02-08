@@ -1,0 +1,58 @@
+
+.jumbotron {
+    height: 400px;
+    margin-bottom: 0 !important;
+    padding-top: 110px !important;
+    padding-bottom: 110px !important;
+    
+}
+
+.gridText {
+     margin: auto;
+  
+}
+.col-9 {
+     margin: auto;
+}
+
+h2 {
+    font-weight: bold !important;
+}
+
+.gridTiles {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#image1 {
+    background-image: url(iphoneimg.jpg);
+}
+#image2 {
+    background-image: url(htmlscreen.png);
+}
+
+#image3 {
+    background-image: url(babyblocks.jpg);
+}
+
+
+.col-lg-4 {
+    text-align: center;
+    
+}
+
+.theIcon {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    transition:.1s ease-out;
+    font-weight: 200;
+}
+
+.theIcon:hover {
+    transform:scale(1.1);
+}
+
+ 
