@@ -1,0 +1,58 @@
+.jumbotron-fluid {
+    margin-bottom: 0;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    
+}
+
+.gridText {
+     padding: 8rem;
+     
+}
+
+h2 {
+    font-weight: bold;
+}
+
+
+
+#image1 {
+    background-image: url(iphoneimg.jpg);
+     padding: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#image2 {
+    background-image: url(htmlscreen.png);
+     padding: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#image3 {
+    background-image: url(babyblocks.jpg);
+     padding: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.col-lg-4 {
+    text-align: center;
+    
+}
+
+.theIcon {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    transition:.1s ease-out;
+    font-weight: 200;
+}
+
+.theIcon:hover {
+    transform:scale(1.1);
+}
+
+ 
