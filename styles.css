@@ -1,0 +1,10 @@
+.container-fluid{
+    background: linear-gradient(#687681, transparent), url('https://static.pexels.com/photos/355808/pexels-photo-355808.jpeg');
+    padding-top: 13rem;
+    padding-bottom: 13rem;
+}
+header.masthead h1 {
+    font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+}
